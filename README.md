@@ -22,14 +22,14 @@ Remarkably, the manifesto's predictions have become increasingly relevant in the
 ## How to Support
 If you find this manifesto thought-provoking or valuable, consider contributing to further political and social reform initiatives. Donations can be made via Bitcoin to the following address:  
 
-`bc1pmec067t6vksmyhw5njdztfu89rkwvd5yup446asr9c5zt24vumrqcfn4yp`
+`bc1pwdz6688ya7uq7wr5a8fs4yn5xf9y695fpc6x3vgxr9z809msudgqe9r6u6`
 
 Your support is deeply appreciated and will help fuel the movement toward meaningful change.
 
 ## Citation
 If you use or reference this manifesto, please cite it as follows:
 
-**Hinds, Kyle. The Civil Manifesto. Zenodo. DOI: [10.5281/zenodo.12185379](https://doi.org/10.5281/zenodo.12185379)**  
+**Hinds, Kyle. The Civil Manifesto. Zenodo. DOI: [https://doi.org/10.5281/zenodo.14697851]**  
 
 ## Disclaimer
 This paper is provided \"as-is,\" without any warranty of accuracy or fitness for purpose. The ideas and proposals herein are meant to inspire discourse and action; their implementation should be tailored to the unique contexts of each society.
