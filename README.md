@@ -1,7 +1,7 @@
 # civil_manifesto
 
 ### Author: Kyle Hinds  
-### Original Date: February 2, 2019  
+### Original Date: January 19, 2019  
 ### Published Date: January 20, 2025  
 
 ## Description
